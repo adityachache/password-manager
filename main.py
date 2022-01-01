@@ -90,7 +90,7 @@ website_entry.grid(row=1, column=1, columnspan=2)
 email_label = Label(text="Email/Username: ")
 email_label.grid(row=2, column=0)
 email_entry = Entry(width=WEBSITE_EMAIL_WIDTH)
-email_entry.insert(index=0, string="aditya.chache@gmail.com")
+email_entry.insert(index=0, string="example@gmail.com")
 email_entry.grid(row=2, column=1, columnspan=2)
 
 
